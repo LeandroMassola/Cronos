@@ -1,8 +1,34 @@
-# React + Vite
+# ⏱️ Cronos  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web minimalista y dinámica para crear y gestionar múltiples cronómetros de manera sencilla.  
 
-Currently, two official plugins are available:
+## 📖 Descripción  
+**Cronos** es una app desarrollada con **React + Tailwind CSS** que permite al usuario:  
+- Crear cronómetros personalizados.  
+- Iniciar, pausar y reiniciar cada cronómetro de forma independiente.  
+- Eliminar cronómetros cuando ya no sean necesarios.  
+- Diseño responsive y moderno con fondo dinámico.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+La aplicación está pensada para quienes necesitan medir diferentes tareas en paralelo: desde rutinas de estudio o cocina hasta entrenamientos.  
+
+---
+
+## 🖥️ Demo  
+👉 [Enlace a la demo desplegada](https://TU-LINK-AQUI.com) *(ejemplo: Vercel, Netlify, Render, etc.)*  
+
+---
+
+## ⚙️ Tecnologías usadas  
+- ⚛️ **React** (Vite como bundler)  
+- 🎨 **Tailwind CSS** para estilos  
+- 🌀 Animaciones con [react-spring] *(si lo usaste)*  
+- 🗂️ Deploy en [Render] / [Vercel] *(según corresponda)*  
+
+---
+
+## 🚀 Instalación y uso  
+
+Cloná el repositorio:  
+```bash
+git clone https://github.com/TU-USUARIO/Cronos.git
+cd Cronos
