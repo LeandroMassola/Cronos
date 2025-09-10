@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+body {
+        background: linear-gradient(to bottom, #87bcc7,#23596d) no-repeat;
+        @apply flex flex-col
+}
+
+.btns-box {
+        @apply bg-transparent p-2 rounded-full cursor-pointer lg:hover:scale-110 lg:hover:transition lg:hover:ease-in-out lg:hover:duration-750 lg:hover:delay-50 lg:active:scale-75;
+}
+
+.btns {
+        @apply text-[#274C77] font-extrabold size-8;
+}
+
+.btn-close-box {
+        @apply w-6 bg-[#ed8772] mr-4 rounded-full flex justify-center cursor-pointer;
+}
+
+.btn-close {
+        @apply text-[#f0caa4] size-6 ;
+} 
